@@ -1,0 +1,14 @@
+.JobTitle h4{
+  color: blue;
+  text-align: center;
+  font-family: impact;
+
+}
+.JobTitle h3 {
+  color: green;
+
+}
+span {
+  font-weight: bolder;
+  color: red;
+}
